@@ -3,5 +3,62 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "eLs7d50ke_VuVW6E3PlEK",
+      "createdAt": 1679757403792,
+      "name": "Kakashi",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "VxyW_oqNbFQ6GtPqRb78P",
+      "createdAt": 1679758451643,
+      "name": "lmkmkln",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_73ucm8RX9yX3sdr6vj40",
+      "createdAt": 1679758572799,
+      "name": "writingToCache",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "dJJu-3iSTQ8bWBrZIN9jP",
+      "createdAt": 1679758699349,
+      "name": "checkingMutationAgain",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Vl8PkHeJxirN-9zKjuq2Y",
+      "createdAt": 1679758791075,
+      "name": "checkingMutationAgainx2",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "5p7Q0Q4LxGubM_Qlz0mhL",
+      "createdAt": 1679758841616,
+      "name": "checkingMutationAgainx3",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "7VQzleA6V0VdMCk21G7k9",
+      "createdAt": 1679887790017,
+      "name": "optimisticUI",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "UsoYHSOMk0InQxtaR2yWE",
+      "createdAt": 1679887809787,
+      "name": "optimisticUIx2",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
